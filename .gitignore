@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Visual Studio and JetBrains IDE state
+.vs/
+.idea/
+*.suo
+*.user
+
+# Build output and compiler artifacts
+**/Debug/
+**/Release/
+**/Backup/
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.ipch
+*.tlog/
+*.ncb
+*.sdf
+*.opensdf
+
+# Generated upgrade and build logs
+UpgradeLog.htm
+**/BuildLog.htm
+*.log
+
+# Local Windows shortcuts
+*.lnk

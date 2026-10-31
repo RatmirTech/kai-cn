@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spx_c", "spx_c\spx_c.vcxproj", "{D238E5FF-59E8-415A-9A19-CA29855E2FC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D238E5FF-59E8-415A-9A19-CA29855E2FC6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D238E5FF-59E8-415A-9A19-CA29855E2FC6}.Debug|Win32.Build.0 = Debug|Win32
+		{D238E5FF-59E8-415A-9A19-CA29855E2FC6}.Release|Win32.ActiveCfg = Release|Win32
+		{D238E5FF-59E8-415A-9A19-CA29855E2FC6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E70542-C0CA-4934-B18A-F0D21A65B9C3}
+	EndGlobalSection
+EndGlobal
